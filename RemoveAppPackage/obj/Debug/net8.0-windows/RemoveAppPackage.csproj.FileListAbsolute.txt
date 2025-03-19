@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\bin\Debug\net8.0-windows\RemoveAppPackage.exe
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\bin\Debug\net8.0-windows\RemoveAppPackage.deps.json
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\bin\Debug\net8.0-windows\RemoveAppPackage.runtimeconfig.json
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\bin\Debug\net8.0-windows\RemoveAppPackage.dll
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\bin\Debug\net8.0-windows\RemoveAppPackage.pdb
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\RemoveAppPackage.Form1.resources
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\RemoveAppPackage.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\RemoveAppPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\RemoveAppPackage.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\RemoveAppPackage.AssemblyInfo.cs
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\RemoveAppPackage.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\RemoveAppPackage.dll
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\refint\RemoveAppPackage.dll
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\RemoveAppPackage.pdb
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\RemoveAppPackage.genruntimeconfig.cache
+C:\Users\PC\source\repos\RemoveAppPackage\RemoveAppPackage\obj\Debug\net8.0-windows\ref\RemoveAppPackage.dll
